@@ -10,8 +10,7 @@
  <br>
  </TD>
  </TR>
- <TR>
- <TD>
+	
 <div class="calculator">
         <input type="text" id="display" readonly>
         <br>
