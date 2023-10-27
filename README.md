@@ -7,10 +7,6 @@
 </style>
 </head>
 <body>
-<form name="kal" class="kalk"
-<TABLE BORDER=1; WIDHT=230; HEIGHT=150; STYLE="BACKGROUND:#999;">
- <TR>
- <TD HEIGHT=30; STYLE="background-color: aquamarine;">
  <br>
  </TD>
  </TR>
@@ -74,5 +70,3 @@
             }
         }
     </script>
-</body>
-</html>
