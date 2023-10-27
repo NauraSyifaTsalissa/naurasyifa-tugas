@@ -8,8 +8,6 @@
 </head>
 <body>
  <br>
- </TD>
- </TR>
 	
 <div class="calculator">
         <input type="text" id="display" readonly>
